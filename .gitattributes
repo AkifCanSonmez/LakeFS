@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+fifa_players.csv filter=lfs diff=lfs merge=lfs -text
